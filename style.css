@@ -7,4 +7,44 @@
 .conteiner{
     max-width: 800px;
     margin: 0 auto;
+    
+}
+.colunm{
+    flex: 1 0 0;
+}
+.colunm-1{
+    flex: 0 0 8.3333333%;
+}
+.colunm-2{
+    flex: 0 0 16.6666666%;
+}
+.colunm-3{
+    flex: 0 0 25%;
+}
+.colunm-4{
+    flex: 0 0 33.3333333%;
+}
+.colunm-5{
+    flex: 0 0 41.6666666%;
+}
+.colunm-6{
+    flex: 0 0 50%;
+}
+.colunm-7{
+    flex: 0 0 58.2222222%;
+}
+.colunm-8{
+    flex: 0 0 66.6666666%;
+}
+.colunm-9{
+    flex: 0 0 75%;
+}
+.colunm-10{
+    flex: 0 0 83.1111111;
+}
+.colunm-11{
+    flex: 0 0 92.000001%;
+}
+.colunm-12{
+    flex: 0 0 100%;
 }
