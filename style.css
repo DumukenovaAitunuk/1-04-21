@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+}
+.colunm{
+    flex: 1 0 0;
+}
+.conteiner{
+    max-width: 800px;
+    margin: 0 auto;
+}
